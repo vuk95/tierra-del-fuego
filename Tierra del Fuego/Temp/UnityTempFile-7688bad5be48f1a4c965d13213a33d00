@@ -314,5 +314,6 @@
 /define:UNITY_STANDALONE_WIN
 /define:UNITY_TEAM_LICENSE
 /define:USE_SEARCH_ENGINE_API
-Assets\Scripts\FollowCamera.cs
+Assets\Scripts\Control\PlayerController.cs
+Assets\Scripts\Core\FollowCamera.cs
 Assets\Scripts\Movement\Mover.cs
